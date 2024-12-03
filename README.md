@@ -21,5 +21,3 @@ Other solutions are implemented in **Python**. These scripts are written for **P
 #### Requirements:
 
 - **Python 3.10** or later
-
-## How to Run the Solutions
