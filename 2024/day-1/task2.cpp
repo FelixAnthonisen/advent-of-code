@@ -27,7 +27,6 @@ string getParentPath()
 int main()
 {
     ll ans = 0;
-    int pre = -1, pre2 = -1;
     vi arr;
     unordered_multiset<int> ms;
     ifstream inputFile(getParentPath() + "/" + file);
@@ -37,8 +36,6 @@ int main()
         istringstream stream(line);
         int a, b;
         stream >> a >> b;
-        pre = a;
-        pre2 = b;
         arr.push_back(a);
         ms.insert(b);
     }
