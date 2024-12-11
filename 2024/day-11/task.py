@@ -1,12 +1,11 @@
-# Same solution for both tasks
+from functools import lru_cache
 
+# Same solution for both tasks
 
 test = [125, 17]
 test_depth = 6
 inp = [0, 89741, 316108, 7641, 756, 9, 7832357, 91]
 inp_depth = 75
-
-from functools import lru_cache
 
 
 @lru_cache(maxsize=None)
