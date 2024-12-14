@@ -1,3 +1,5 @@
+// Mainly solved manually, only using code to visualize the room
+
 #include <bits/stdc++.h>
 #include <mach-o/dyld.h>
 using namespace std;
