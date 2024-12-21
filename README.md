@@ -16,7 +16,7 @@ Some of the problems are solved using **C++**. The C++ solutions are written to 
 
 ### Python
 
-Other solutions are implemented in **Python**. These scripts are written for **Python 3.10** and are meant to be run with this version or later. They do not require any external dependencies (unless specified for a particular problem), and should work with any Python 3.x interpreter.
+Other solutions are implemented in **Python**. These scripts are written for **Python 3.10** and are meant to be run with this version or later.
 
 #### Requirements:
 
